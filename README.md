@@ -22,3 +22,6 @@ Dans cette partie, nous construisons un modèle prédictif en utilisant des donn
 
 ### - Mise en routine du modèle avec système d'alerte en cas de déviation :
 Nous avons mis en place un système d'alerte pour détecter les déviations. Lorsque de nouvelles données sont introduites dans le modèle, il génère des prédictions. Si les prédictions dépassent un seuil prédéfini ou indiquent une déviation par rapport aux attentes, le système envoie une notification d'alerte (par exemple, un e-mail) pour signaler la présence d'un risque humain.
+
+## Résultat
+Consultez le notebook Python ainsi que l'image associée pour obtenir les détails des résultats obtenus.
